@@ -1,5 +1,6 @@
 {
   "name": "homebridge-powerview-2",
+  "displayName": "PowerView Shades 2",
   "version": "1.0.9",
   "description": "Updated Homebridge plugin for Hunter Douglas PowerView shades",
   "license": "ISC",
